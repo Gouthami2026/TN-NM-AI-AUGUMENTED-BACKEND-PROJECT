@@ -11,6 +11,9 @@ AI BlogNest API is a RESTful backend built with Node.js, Express, MongoDB, Mongo
 - AI summarization
 - MVC architecture
 
+## 🎥 Demo Video
+
+[▶️ Watch Demo Video](./demo%20video.mp4)
 ## Getting Started
 
 1. Copy `.env.example` to `.env`
